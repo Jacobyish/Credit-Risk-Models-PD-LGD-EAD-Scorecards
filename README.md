@@ -6,7 +6,7 @@ This repository contains the Jupyter notebooks and associated data for a compreh
 ## Project Structure
 - `data_preparation.ipynb`: General data preparation steps applicable across the different models.
 - `PD_data_pre.ipynb`: Notebook for preprocessing the data used in PD models.
-- `PD_model.ipynb`: Contains the modeling process for Probability of Default.
+- `PD_model.ipynb`: Contains the modeling process for Probability of Default and generation of a credit scorecard based on PD model
 - `PD_Monitoring.ipynb`: Monitoring and performance evaluation of the PD model.
 - `data_LGD_EAD.ipynb`: Data preparation and initial analysis for LGD and EAD models.
 - `LGD_EAD_CECL_Model.ipynb`: Combined modeling notebook for LGD, EAD, and CECL calculations.
